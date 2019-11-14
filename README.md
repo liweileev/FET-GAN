@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Coming soon
+
+This is the official implementation of FET-GAN. 
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/liweileev/FET-GAN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,3 +30,4 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ -->
