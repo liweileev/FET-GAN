@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-title: ! 'Attention: This post title has "colon" & stuff'
+title: ! 'FET-GAN: Font Effect Transfer via K-shot Adaptive Instance Normalization'
 description: [AAAI 2020 - oral]
 show_downloads: "true"
