@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [FET-GAN: Font Effect Transfer via K-shot Adaptive Instance Normalization]
+description: [AAAI 2020 - oral]
 show_downloads: "true"
