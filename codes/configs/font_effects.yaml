@@ -44,7 +44,7 @@ lr_decay_iters: 50    # multiply by a gamma every lr_decay_iters iterations
 epoch_count:  1       # the starting epoch count, we save the model by <epoch_count>, <epoch_count>+<save_latest_freq>, ...
 
 # finetune parameters
-finetune: False         # finetune the model: load the latest model
+finetune: False         # finetune the model
 finetune_iter: 30     # number of iterations for finetune
 
 # test parameters
