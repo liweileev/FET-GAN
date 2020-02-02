@@ -1,0 +1,71 @@
+# basic parameters
+gpu_ids:    [0]                 # gpu ids: e.g. [0],  [0,1,2], [0,2]. use [-1] for CPU
+outputs_dir:    ./outputs        # models are saved here       
+
+# model parameters
+epoch:  latest    # which epoch to load? set to latest to use latest cached model
+load_iter:  0     # which iteration to load? if load_iter > 0, the code will load models by iter_[load_iter]; otherwise, the code will load models by [epoch]
+init_type:  normal  # network initialization [normal | xavier | kaiming | orthogonal]
+init_gain:  0.02  # scaling factor for normal, xavier and orthogonal
+input_nc: 3   # number of input image channels: 3 for RGB and 1 for grayscale
+latent_nc:  512   # number of latent channels for encoder
+nef:  64  # number of encoder filters in the first conv layer
+ngf:  64  # number of generator filters in the first conv layer
+ndf:  64  # number of discriminator filters in the first conv layer
+ne_downsample:  5   # number of downsampling layers in encoder
+ng_downsample:  4   # number of downsampling layers in generator
+nd_downsample:  3   # number of downsampling layers in discriminator
+ng_upsample:  3     # number of upsampling layers in generator
+GAN_type: hinge # type of GAN loss [vanilla | hinge]
+lambda_transfer: 10   # weight for rec loss
+lambda_recons: 10  # weight for cycle loss
+lambda_code: 1 # weight for code loss
+lambda_GAN: 1   # weight for GAN loss
+lambda_gp:  10  # weight for gradient penalty
+
+
+# dataset parameters
+datasetname:  font_effects_transfer   # name of the datasets
+num_cls:  60  # number of source classes
+K:  4   # number of ref effect images
+num_threads:  4   # number of threads for loading data
+batch_size: 4   # input batch size
+max_dataset_size: 80000   # Maximum number of samples allowed per dataset. If the dataset directory contains more than max_dataset_size, only a subset is loaded
+load_size:  320   # scale images to this size
+crop_size:  256   # then crop to this size
+
+# training parameters
+nepoch: 20    # number of epoch at starting learning rate
+nepoch_decay: 10   # number of epoch to linearly decay learning rate to zero
+beta1:  0.5    # momentum term of adam
+lr: 0.0002    # initial learning rate for adam
+lr_policy:  linear    # learning rate policy. [linear | step | plateau | cosine]
+lr_decay_iters: 50    # multiply by a gamma every lr_decay_iters iterations
+epoch_count:  1       # the starting epoch count, we save the model by <epoch_count>, <epoch_count>+<save_latest_freq>, ...
+
+# finetune parameters
+finetune: False         # finetune the model: load the latest model
+finetune_iter: 30     # number of iterations for finetune
+
+# test parameters
+testresults_dir:    ./testresults   # Directory to save the test result image(s)
+
+# visdom and HTML visualization parameters
+display_id: 1   # window id of the web display
+no_html:  False   # do not save intermediate training results to outputs_dir/name/web/
+display_winsize:  256   # display window size for both visdom and HTML
+display_port: 8097    # visdom port of the web display
+display_server: http://localhost    # visdom server of the web display
+display_env: FET  # visdom display environment name (default is "main")
+print_freq: 200   # frequency of showing training results on console which should be the times of batch size
+display_freq: 400   # frequency of showing training results on screen which should be the times of batch size
+update_html_freq: 2000    # frequency of saving training results to html which should be the times of display_freq
+
+# network saving and loading parameters
+continue_train: False   # continue training: load the latest model
+save_latest_freq: 5000  # frequency of saving the latest results
+save_by_iter: False     # whether saves model by iteration
+save_epoch_freq:  1     # frequency of saving checkpoints at the end of epochs
+
+# additional parameters
+verbose:  False   # if specified, print more debugging information

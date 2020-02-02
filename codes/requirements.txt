@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+natsort
+scipy==1.1.0
+visdom
+dominate
+pyyaml
+opencv-python
