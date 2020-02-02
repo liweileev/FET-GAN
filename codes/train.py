@@ -15,8 +15,6 @@ opt['gpu_ids'] = [4]
 opt['load_size'] = 160
 opt['crop_size'] = 128
 
-opt['display_id'] = 0   # turn off the visdom, if you want to use visdom, just set this >0, and the defalut web display port is 8097
-
 print_save_options(opt)
 
 dataset = create_dataset(opt)  # create a dataset given options in config
