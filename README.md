@@ -49,7 +49,7 @@ This application is significant in reducing the labor cost for the font designer
 ![](./docs/imgs/Fonts-100.png)
 
 * [![](./docs/imgs/GoogleDrive.svg)](https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2)
-* [![](./docs/imgs/BaiduDrive.png){:height="50" width="50"}](https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA)
+* [![](./docs/imgs/BaiduDrive.png){:height="50px" width="50px"}](https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA)
 
 
 ## How to Use
