@@ -24,13 +24,10 @@ This application is significant in reducing the labor cost for the font designer
 
 ## Presentation Video (Youtube)
 
-<!--[![Youtube](http://img.youtube.com/vi/txYmA5ePDOM/0.jpg)](http://www.youtube.com/watch?v=txYmA5ePDOM "AAAI 2020 oral presentation FET-GAN")-->
-
 <p align="center">
-	<a target="_blank" href="http://www.youtube.com/watch?v=txYmA5ePDOM">
+	<a href="http://www.youtube.com/watch?v=txYmA5ePDOM">
 		<img width="640" src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg">
-	<a/>  
-</p>
+	<a/></p>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -46,28 +43,28 @@ This application is significant in reducing the labor cost for the font designer
 
 <ul>
 	<li>
-		<a target="_blank" href="https://liweileev.github.io/FET-GAN/">
+		<a href="https://liweileev.github.io/FET-GAN/">
 			<img src="./docs/imgs/jekyll.png" height="60" alt="Github page">
 		</a>
 	</li>
 </ul>
 
 ### Code
-* <a target="_blank" href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Github code"></a>
+* <a href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Github code"></a>
 
 ### Pre-trained models
 
 <ul>
 	<li>
 		<p>
-			<a target="_blank" href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy">
+			<a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy">
 				<img src="./docs/imgs/GoogleDrive.svg?sanitize=true" width="45" alt="Google Drive Datasets">
 			</a>
 		</p>
 	</li>
 	<li>
 		<p>
-			<a target="_blank" href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg">
+			<a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg">
 				<img src="./docs/imgs/BaiduDrive.png" width="45" alt="Baidu Drive  Datasets">
 			</a>
 		</p>
@@ -78,9 +75,9 @@ This application is significant in reducing the labor cost for the font designer
 
 ![](./docs/imgs/Fonts-100.png)
 
-* <a target="_blank" href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" width=45 alt="Google Drive Datasets"></a>
+* <a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" width=45 alt="Google Drive Datasets"></a>
 
-* <a target="_blank" href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
+* <a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
 
 ## How to Use
 
