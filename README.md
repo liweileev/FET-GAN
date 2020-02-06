@@ -30,18 +30,18 @@ This application is significant in reducing the labor cost for the font designer
 [coming soon]
 
 ### Code
-* <a href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" style="width:45px;" alt="Google Drive Datasets"></a>
+* <a href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Google Drive Datasets"></a>
 
 ### Pre-trained models
 
-* <a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy"><img src="./docs/imgs/GoogleDrive.svg" style="width:45px;" alt="Google Drive Datasets"></a>
+* <a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy"><img src="./docs/imgs/GoogleDrive.svg" width=45 alt="Google Drive Datasets"></a>
 
-* <a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg"><img src="./docs/imgs/BaiduDrive.png" style="width:45px;" alt="Baidu Drive  Datasets"></a>
+* <a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
 
 ### Datasets
-* <a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" style="width:45px;" alt="Google Drive Datasets"></a>
+* <a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" width=45 alt="Google Drive Datasets"></a>
 
-* <a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" style="width:45px;" alt="Baidu Drive  Datasets"></a>
+* <a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
 
 ## How to Use
 
