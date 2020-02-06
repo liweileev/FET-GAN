@@ -36,55 +36,17 @@ This application is significant in reducing the labor cost for the font designer
 * <a href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height="45" alt="Google Drive Datasets"></a>
 
 ### Code
-<ul>
-	<li>
-		<p>
-			<a href="https://github.com/liweileev/FET-GAN">
-				<img src="./docs/imgs/github.png" width="45" alt="Google Drive Datasets">
-			</a>
-		</p>
-	</li>
-</ul>	
-
+* <a href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" height="45" alt="Google Drive Datasets"></a>
 
 ### Pre-trained models
-<ul>
-	<li>
-		<p>
-			<a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy">
-				<img src="./docs/imgs/GoogleDrive.svg" width="45" alt="Google Drive Datasets">
-			</a>
-		</p>
-	</li>
-	<li>
-		<p>
-			<a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg">
-				<img src="./docs/imgs/BaiduDrive.png" width="45" alt="Baidu Drive  Datasets">
-			</a>
-		</p>
-	</li>
-</ul>
-
+* <a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy"><img src="./docs/imgs/GoogleDrive.svg" height="45" alt="Google Drive Datasets"></a>
+* <a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg"><img src="./docs/imgs/BaiduDrive.png" height="45" alt="Google Drive Datasets"></a>
 
 ### Datasets
 ![](./docs/imgs/Fonts-100.png)
 
-<ul>
-	<li>
-		<p>
-			<a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2">
-				<img src="./docs/imgs/GoogleDrive.svg" width="45" alt="Google Drive Datasets">
-			</a>
-		</p>
-	</li>
-	<li>
-		<p>
-			<a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA">
-				<img src="./docs/imgs/BaiduDrive.png" width="45" alt="Baidu Drive  Datasets">
-			</a>
-		</p>
-	</li>
-</ul>
+* <a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" height="45" alt="Google Drive Datasets"></a>
+* <a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" height="45" alt="Google Drive Datasets"></a>
 
 ## How to Use
 
