@@ -54,9 +54,22 @@ This application is significant in reducing the labor cost for the font designer
 
 ### Pre-trained models
 
-* <a target="_blank" href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy"><img src="./docs/imgs/GoogleDrive.svg" width=45 alt="Google Drive Datasets"></a>
-
-* <a target="_blank" href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
+<ul>
+	<li>
+		<p>
+			<a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy">
+				<img src="./docs/imgs/GoogleDrive.svg?sanitize=true" width="45" alt="Google Drive Datasets">
+			</a>
+		</p>
+	</li>
+	<li>
+		<p>
+			<a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg">
+				<img src="./docs/imgs/BaiduDrive.png" width="45" alt="Baidu Drive  Datasets">
+			</a>
+		</p>
+	</li>
+</ul>
 
 ### Datasets
 
