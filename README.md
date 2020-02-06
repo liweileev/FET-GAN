@@ -33,7 +33,6 @@ This application is significant in reducing the labor cost for the font designer
 [coming soon]
 
 ### Webpage
-
 <ul>
 	<li>
 		<p>
@@ -56,7 +55,6 @@ This application is significant in reducing the labor cost for the font designer
 <ul>	
 
 ### Pre-trained models
-
 <ul>
 	<li>
 		<p>
@@ -76,11 +74,8 @@ This application is significant in reducing the labor cost for the font designer
 
 
 ### Datasets
-
 ![](./docs/imgs/Fonts-100.png)
 
-* [![](./docs/imgs/GoogleDrive.svg)]()
-* [![](./docs/imgs/BaiduDrive.png)]()
 <ul>
 	<li>
 		<p>
