@@ -43,11 +43,14 @@ This application is significant in reducing the labor cost for the font designer
 [coming soon]
 
 ### Webpage
-* <a target="_blank" href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height=60  alt="Github page"></a>
 
-<a href="https://liweileev.github.io/FET-GAN/">
-	<img src="./docs/imgs/jekyll.png" height=60 alt="Github page">
-</a>
+<ul>
+	<li>
+		<a href="https://liweileev.github.io/FET-GAN/">
+			<img src="./docs/imgs/jekyll.png" height="60" alt="Github page">
+		</a>
+	</li>
+</ul>
 
 ### Code
 * <a target="_blank" href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Github code"></a>
