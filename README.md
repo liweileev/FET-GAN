@@ -46,7 +46,7 @@ This application is significant in reducing the labor cost for the font designer
 
 <ul>
 	<li>
-		<a href="https://liweileev.github.io/FET-GAN/">
+		<a target="_blank" href="https://liweileev.github.io/FET-GAN/">
 			<img src="./docs/imgs/jekyll.png" height="60" alt="Github page">
 		</a>
 	</li>
@@ -60,14 +60,14 @@ This application is significant in reducing the labor cost for the font designer
 <ul>
 	<li>
 		<p>
-			<a href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy">
+			<a target="_blank" href="https://drive.google.com/drive/folders/13kqa8miU97IMsIyM-KpBmr1kd8nHWUJy">
 				<img src="./docs/imgs/GoogleDrive.svg?sanitize=true" width="45" alt="Google Drive Datasets">
 			</a>
 		</p>
 	</li>
 	<li>
 		<p>
-			<a href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg">
+			<a target="_blank" href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg">
 				<img src="./docs/imgs/BaiduDrive.png" width="45" alt="Baidu Drive  Datasets">
 			</a>
 		</p>
