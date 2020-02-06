@@ -6,7 +6,9 @@ Li W, He Y, Qi Y, Li Z, Tang Y. FET-GAN: Font Effect Transfer via K-shot Adaptiv
 
 It is provided for educational/research purpose only. Please consider citing our paper if you find it useful for your work.
 
-<img align="middle" src="./docs/imgs/func.png" width= "600" alt="Example"/>
+<p align="center">
+  <img width="300" src="./docs/imgs/func.png">
+</p>
 
 ## Abstract
 
@@ -36,6 +38,14 @@ This application is significant in reducing the labor cost for the font designer
 
 ### Webpage
 * <a target="_blank" href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height=60  alt="Github page"></a>
+
+<a target="_blank" href="https://liweileev.github.io/FET-GAN/">
+	<img src="./docs/imgs/jekyll.png" height=60  alt="Github page">
+</a>
+
+<p align="center">
+  <img width="460" height="300" src="./docs/imgs/func.png">
+</p>
 
 ### Code
 * <a target="_blank" href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Github code"></a>
