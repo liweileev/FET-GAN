@@ -20,12 +20,14 @@ Besides, we have collected a font dataset including 100 fonts of more than 800 C
 Based on this dataset, we demonstrated the generalization ability of our model by the application that complements the font library automatically by few-shot samples. 
 This application is significant in reducing the labor cost for the font designer. 
 
-## Presentation Video
+## Presentation Video (Youtube)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Youtube](http://img.youtube.com/vi/txYmA5ePDOM/0.jpg)](http://www.youtube.com/watch?v=txYmA5ePDOM "AAAI 2020 oral presentation FET-GAN")
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Experimental Results
-
+![](./docs/imgs/contrast.png)
 
 ## Download
 
@@ -45,6 +47,9 @@ This application is significant in reducing the labor cost for the font designer
 * <a target="_blank" href="https://pan.baidu.com/s/1403BzONK60QSf0v2aoRNFg"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
 
 ### Datasets
+
+![](./docs/imgs/Fonts-100.png)
+
 * <a target="_blank" href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" width=45 alt="Google Drive Datasets"></a>
 
 * <a target="_blank" href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" width=45 alt="Baidu Drive  Datasets"></a>
