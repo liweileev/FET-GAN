@@ -24,10 +24,7 @@ This application is significant in reducing the labor cost for the font designer
 
 ## Presentation Video (Youtube)
 
-<p align="center">
-	<a href="http://www.youtube.com/watch?v=txYmA5ePDOM">
-		<img width="640" src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg">
-	<a/></p>
+<p align="center"><a href="http://www.youtube.com/watch?v=txYmA5ePDOM"><img width="640" src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg"><a/></p>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
