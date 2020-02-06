@@ -33,16 +33,7 @@ This application is significant in reducing the labor cost for the font designer
 [coming soon]
 
 ### Webpage
-<ul>
-	<li>
-		<p>
-			<a href="https://liweileev.github.io/FET-GAN/">
-				<img src="./docs/imgs/jekyll.png" height="45" alt="Google Drive Datasets">
-			</a>
-		</p>
-	</li>
-</ul>	
-
+* <a href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height="45" alt="Google Drive Datasets"></a>
 
 ### Code
 <ul>
