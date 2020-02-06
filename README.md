@@ -24,7 +24,13 @@ This application is significant in reducing the labor cost for the font designer
 
 ## Presentation Video (Youtube)
 
-[![Youtube](http://img.youtube.com/vi/txYmA5ePDOM/0.jpg)](http://www.youtube.com/watch?v=txYmA5ePDOM "AAAI 2020 oral presentation FET-GAN")
+<!--[![Youtube](http://img.youtube.com/vi/txYmA5ePDOM/0.jpg)](http://www.youtube.com/watch?v=txYmA5ePDOM "AAAI 2020 oral presentation FET-GAN")-->
+
+<p align="center">
+	<a target="_blank" href="http://www.youtube.com/watch?v=txYmA5ePDOM">
+		<img width="640" src="https://www.youtube.com/embed/txYmA5ePDOM">
+	<a/>  
+</p>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -39,8 +45,8 @@ This application is significant in reducing the labor cost for the font designer
 ### Webpage
 * <a target="_blank" href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height=60  alt="Github page"></a>
 
-<a target="_blank" href="https://liweileev.github.io/FET-GAN/">
-	<img src="./docs/imgs/jekyll.png" height=60  alt="Github page">
+<a href="https://liweileev.github.io/FET-GAN/">
+	<img src="./docs/imgs/jekyll.png" height=60 alt="Github page">
 </a>
 
 ### Code
