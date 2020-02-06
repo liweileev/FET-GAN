@@ -34,10 +34,26 @@ This application is significant in reducing the labor cost for the font designer
 
 ### Webpage
 
-* [![](./docs/imgs/jekyll.png)](https://liweileev.github.io/FET-GAN/)
+<ul>
+	<li>
+		<p>
+			<a href="https://liweileev.github.io/FET-GAN/">
+				<img src="./docs/imgs/jekyll.png" width="45" alt="Google Drive Datasets">
+			</a>
+		</p>
+	</li>
+<ul>	
 
 ### Code
-* [![](./docs/imgs/github.png)](https://github.com/liweileev/FET-GAN)
+<ul>
+	<li>
+		<p>
+			<a href="https://github.com/liweileev/FET-GAN">
+				<img src="./docs/imgs/github.png" width="45" alt="Google Drive Datasets">
+			</a>
+		</p>
+	</li>
+<ul>	
 
 ### Pre-trained models
 
@@ -63,9 +79,24 @@ This application is significant in reducing the labor cost for the font designer
 
 ![](./docs/imgs/Fonts-100.png)
 
-* [![](./docs/imgs/GoogleDrive.svg)](https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2)
-* [![](./docs/imgs/BaiduDrive.png)](https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA)
-
+* [![](./docs/imgs/GoogleDrive.svg)]()
+* [![](./docs/imgs/BaiduDrive.png)]()
+<ul>
+	<li>
+		<p>
+			<a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2">
+				<img src="./docs/imgs/GoogleDrive.svg" width="45" alt="Google Drive Datasets">
+			</a>
+		</p>
+	</li>
+	<li>
+		<p>
+			<a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA">
+				<img src="./docs/imgs/BaiduDrive.png" width="45" alt="Baidu Drive  Datasets">
+			</a>
+		</p>
+	</li>
+</ul>
 
 ## How to Use
 
