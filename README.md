@@ -22,15 +22,21 @@ This application is significant in reducing the labor cost for the font designer
 
 ## Presentation Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+
+## Experimental Results
+
 
 ## Download
 
 ### Paper
 [coming soon]
 
+### Webpage
+* <a href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height=60  alt="Github page"></a>
+
 ### Code
-* <a href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Google Drive Datasets"></a>
+* <a href="https://github.com/liweileev/FET-GAN"><img src="./docs/imgs/github.png" width=45  alt="Github code"></a>
 
 ### Pre-trained models
 
