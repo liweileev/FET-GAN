@@ -37,11 +37,11 @@ This application is significant in reducing the labor cost for the font designer
 	<li>
 		<p>
 			<a href="https://liweileev.github.io/FET-GAN/">
-				<img src="./docs/imgs/jekyll.png" width="45" alt="Google Drive Datasets">
+				<img src="./docs/imgs/jekyll.png" height="45" alt="Google Drive Datasets">
 			</a>
 		</p>
 	</li>
-<ul>	
+</ul>	
 
 
 ### Code
@@ -53,7 +53,7 @@ This application is significant in reducing the labor cost for the font designer
 			</a>
 		</p>
 	</li>
-<ul>	
+</ul>	
 
 
 ### Pre-trained models
