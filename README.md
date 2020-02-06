@@ -28,7 +28,7 @@ This application is significant in reducing the labor cost for the font designer
 
 <p align="center">
 	<a target="_blank" href="http://www.youtube.com/watch?v=txYmA5ePDOM">
-		<img width="640" src="https://www.youtube.com/embed/txYmA5ePDOM">
+		<img width="640" src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg">
 	<a/>  
 </p>
 
