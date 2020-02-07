@@ -22,7 +22,9 @@ This application is significant in reducing the labor cost for the font designer
 
 ## Presentation Video (Youtube)
 
-<p align="center"><a href="http://www.youtube.com/watch?v=txYmA5ePDOM"><img src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg"></a></p>
+<!--<p align="center"><a href="http://www.youtube.com/watch?v=txYmA5ePDOM"><img src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg"></a></p>-->
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/txYmA5ePDOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 ## Experimental Results
 ![](./docs/imgs/contrast.png)
