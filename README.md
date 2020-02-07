@@ -22,7 +22,7 @@ This application is significant in reducing the labor cost for the font designer
 
 ## Presentation Video (Youtube)
 
-[![Youtube](http://img.youtube.com/vi/txYmA5ePDOM/0.jpg)](http://www.youtube.com/watch?v=txYmA5ePDOM "AAAI 2020 oral presentation FET-GAN")
+<p align="center"><a href="http://www.youtube.com/watch?v=txYmA5ePDOM"><img src="http://img.youtube.com/vi/txYmA5ePDOM/0.jpg"></a></p>
 
 ## Experimental Results
 ![](./docs/imgs/contrast.png)
