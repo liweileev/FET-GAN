@@ -31,8 +31,8 @@ K:  4   # number of ref effect images
 num_threads:  4   # number of threads for loading data
 batch_size: 4   # input batch size
 max_dataset_size: 80000   # Maximum number of samples allowed per dataset. If the dataset directory contains more than max_dataset_size, only a subset is loaded
-load_size:  320   # scale images to this size
-crop_size:  256   # then crop to this size
+load_size:  160   # scale images to this size
+crop_size:  128   # then crop to this size
 
 # training parameters
 nepoch: 20    # number of epoch at starting learning rate

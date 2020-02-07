@@ -10,10 +10,6 @@ opt['name'] = 'font_effect_transfer'
 opt['isTrain'] = True # train(True) or test(False)
 opt['name'] = 'FET_' + datetime.date.today().strftime("%Y%m%d") #'name of the experiment. It decides where to store samples and models'
 opt['fonteffects_dir'] = './datasets/TextEffects/train/'
-opt['K'] = 4
-opt['gpu_ids'] = [4]
-opt['load_size'] = 160
-opt['crop_size'] = 128
 
 print_save_options(opt)
 
