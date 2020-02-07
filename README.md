@@ -44,17 +44,24 @@ This application is significant in reducing the labor cost for the font designer
 
 ### Datasets
 
-We collect a new dataset including 100 fonts each with 775 Chinese characters, 52 English letters, and 10 Arabic numerals.
-There are a total of 83,700 images, each of which is $320\times 320$ in size.
-Figure \ref{font-100} shows an overview of these fonts for the same Chinese character.
-This Fonts-100 dataset is used to demonstrate the ability of our model to assist the font designer in complementing characters in font library.
-We take the first 80 fonts for training, and the remaining 20 as unseen for finetuning.
-Specific experimental configuration and results are in Section \ref{sub:application_complement_font_library_automatically}.
+We collect a new dataset called Fonts-100 which includes 100 fonts each with 775 Chinese characters, 52 English letters, and 10 Arabic numerals.
+There are a total of 83,700 images, each of which is 320*320 in size.
+The following figure shows an overview of these fonts for the same Chinese character.
 
 ![](./docs/imgs/Fonts-100.png)
 
+This Fonts-100 dataset is used to demonstrate the ability of our model to assist the font designer in complementing characters in font library.
+We take the first 80 fonts for training, and the remaining 20 as unseen for finetuning.
+You can get this dataset here: 
+
 * <a href="https://drive.google.com/open?id=1OcOSTg29IY9UDCEB2gL4d3ALpUyvzD-2"><img src="./docs/imgs/GoogleDrive.svg" height="45" alt="Google Drive Datasets"></a>
 * <a href="https://pan.baidu.com/s/1xhKpuSqHWxLlll9Rwf_7cA"><img src="./docs/imgs/BaiduDrive.png" height="45" alt="Google Drive Datasets"></a>
+
+We also provided the texteffects dataset in the above drive links.
+This dataset is proposed in [TET-GAN](https://github.com/williamyang1991/TET-GAN).
+It is paired that each text effect image is provided with its font image.
+We separate 6 fonts and combine them with the original 64 effects.
+Finally, there are a total of 70 classes of text effects and divide them into train/finetune as the Fonts-100 dataset.
 
 ## How to Use
 
