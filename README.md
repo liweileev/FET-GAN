@@ -30,7 +30,7 @@ This application is significant in reducing the labor cost for the font designer
 ## Download
 
 ### Paper
-[coming soon]
+[FET-GAN.pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiW.3470.pdf)
 
 ### Webpage
 * <a href="https://liweileev.github.io/FET-GAN/"><img src="./docs/imgs/jekyll.png" height="45" alt="Google Drive Datasets"></a>
@@ -173,7 +173,16 @@ The default training epoch is 30 and we save the nets every epoch here: ./output
 
 
 
-<!--## Citation-->
+## Citation
+```
+@inproceedings{li2020fet,
+  title={FET-GAN: Font and Effect Transfer via K-shot Adaptive Instance Normalization},
+  author={Li, Wei and He, Yongxing and Qi, Yanwei and Li, Zejian and Tang, Yongchuan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  year={2020}
+}
+```
 
 
 
